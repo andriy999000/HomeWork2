@@ -3,7 +3,29 @@ package com.google;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+
+
+
+
+
+
+
+//        Задание 1.
+//        Написать программу, где объявлены и проинициализированы все примитивные типы данных.
+//        (byte, short, int, long, float, double, char, boolean)
+//        Необходимо вывести на экран все значения этих переменных.
+//        Пример:
+//        Значение типа byte = 10
+//        Значение типа short = 100
+//        и т д.
+
+
+
+
+
+
+
         byte b = 10;
         short s = 100;
         int i = 1000;
